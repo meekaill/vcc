@@ -9,6 +9,11 @@ http://w1.viastreaming.net:1935/yestv/live/playlist.m3u8
 http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:newslive.smil/playlist.m3u8
 #EXTINF:-4 group-title="maldives" tvg-logo=" ",Raajje tv
 https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/hadW4KlzswnwInCn7vpMQtERMB_G-i9iVz2CVOtNvWN9cLErrEVQ-UwvnXmShSz7Zaoopjh41lWqCgjyF28NPQ/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJIZWlnaHQiOjQ4MCwiS2JwcyI6MTAwMCwiV2lkdGgiOjg0OH0.RFzmPpRYVt-M5xPGoWoifZwAR5Wj0QbokQ2FVsxVt9c/dynamic_highlatency.m3u8?type=live
+#EXTINF:-4 group-title="maldives" tvg-logo=" ",13 news
+https://www.facebook.com/channel13official/videos/1045425722463206/
+
+
+
 
 #EXTINF:-4 group-title="HINDI MOVIES" tvg-logo=" ",kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
