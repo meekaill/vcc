@@ -7,10 +7,6 @@ http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 http://w1.viastreaming.net:1935/yestv/live/playlist.m3u8
 #EXTINF:-4 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/210_PSM_News_HD-01.png",PSM NEWS HD
 http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:newslive.smil/playlist.m3u8
-#EXTINF:-4 group-title="maldives" tvg-logo=" ",Raajje tv
-https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/hadW4KlzswnwInCn7vpMQtERMB_G-i9iVz2CVOtNvWN9cLErrEVQ-UwvnXmShSz7Zaoopjh41lWqCgjyF28NPQ/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJIZWlnaHQiOjQ4MCwiS2JwcyI6MTAwMCwiV2lkdGgiOjg0OH0.RFzmPpRYVt-M5xPGoWoifZwAR5Wj0QbokQ2FVsxVt9c/dynamic_highlatency.m3u8?type=live
-#EXTINF:-4 group-title="maldives" tvg-logo=" ",13 news
-https://video.fmle2-1.fna.fbcdn.net/hvideo-prn2-frc/_nc_cat-111/v/rUuv5JVeUaIqzApx0NCiw/live-dash/dash-abr5/2643724915723112.mpd?_nc_rl=AfD0Ih_aBNhwZ-jF&ms=m_CN&oh=e7aa4b7f0b74c4590b769608f196f130&oe=5DE6E405
 
 
 
@@ -31,5 +27,3 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 
 
 
-#EXTINF:-4 group-title="ENGLISH NEWS" tvg-logo=" ",wion
-https://z5ams.akamaized.net/wion/tracks-v1a1/exp=1575315457~acl=%2f*~data=hdntl~hmac=7b33bfb25f9180c3d78f5dca74394c51eeac7d5667e469223ce32680eeb0be2d/mono.m3u8
