@@ -8,8 +8,7 @@ http://w1.viastreaming.net:1935/yestv/live/playlist.m3u8
 #EXTINF:-4 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/210_PSM_News_HD-01.png",PSM NEWS HD
 http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:newslive.smil/playlist.m3u8
 #EXTINF:-4 group-title="maldives" tvg-logo=" ",Raajje tv
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1575313066~acl=%2fi%2fdclive_1%40396998*~data=hdntl~hmac=1242164729c7ca4a433312be3e6972b6a52961667e38aacb4aa4f033bdcd2252
-
+https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/hadW4KlzswnwInCn7vpMQtERMB_G-i9iVz2CVOtNvWN9cLErrEVQ-UwvnXmShSz7Zaoopjh41lWqCgjyF28NPQ/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJIZWlnaHQiOjQ4MCwiS2JwcyI6MTAwMCwiV2lkdGgiOjg0OH0.RFzmPpRYVt-M5xPGoWoifZwAR5Wj0QbokQ2FVsxVt9c/chunk_1575226981372335465_107_a.ts?type=live
 
 
 #EXTINF:-4 group-title="HINDI MOVIES" tvg-logo=" ",kadak
