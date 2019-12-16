@@ -67,3 +67,82 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 http://live.cgtn.com/1000/prog_index.m3u8
 
 
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:0, tvg-logo="" group-title="",ABC News Digital
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",ABC News Digital 2
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",ABC News Digital 3
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",ABC News Digital 4
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",ABC News Digital 5
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",ABC News Digital 6
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",ABC News Digital 7
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",ABC News Digital 8
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",ABC News Digital 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",ABC News Digital 10
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",America's Election HQ
+http://fnurtmp-f.akamaihd.net/i/1533674468272_01@335695/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",C-SPAN.org Live Event 3
+https://dotorg3-lh.akamaihd.net/i/dotorg3_1@301851/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",C-SPAN.org Live Event 5
+https://dotorg5-lh.akamaihd.net/i/DotOrg5_1@129000/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",C-SPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",C-SPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:0, tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170711161429-happening-now-16x9-artwork-exlarge-tease.jpg" group-title="",CNN Debate
+https://cnnlive.warnermediacdn.com/hls/live/2006689/live0/master.m3u8
+#EXTINF:0, tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/shows/default-show-image-large-169.jpg" group-title="",CNN International Live Event
+https://cnn-i.akamaihd.net/hls/live/224534/cnndebates_1/v2/master.m3u8
+#EXTINF:0, tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170711161429-happening-now-16x9-artwork-exlarge-tease.jpg" group-title="",CNN Live Event
+https://cnngo1.akamaized.net/hls/live/598782/PROD-cnnlive1/master.m3u8
+#EXTINF:0, tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170711161429-happening-now-16x9-artwork-exlarge-tease.jpg" group-title="",CNN Live Event 2
+https://cnngo1.akamaized.net/hls/live/599236/PROD-cnnlive2/master.m3u8
+#EXTINF:0, tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170711161429-happening-now-16x9-artwork-exlarge-tease.jpg" group-title="",CNN Live Event 3
+https://cnngo1.akamaized.net/hls/live/599237/PROD-cnnlive3/master.m3u8
+#EXTINF:0, tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170711161429-happening-now-16x9-artwork-exlarge-tease.jpg" group-title="",CNN Live Event 4
+https://cnngo1.akamaized.net/hls/live/599238/PROD-cnnlive4/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Fox News Live Event
+https://live.foxnews.com/6c1c2a24b92948da91e731544f61535b/us-east-1/694940094001/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="",MSNBC Live Event
+http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event
+https://link.theplatform.com/s/rksNhC/7FVV_xJtTBKP?MBR=TRUE&format=redirect&manifest=m3u
+#EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event 11
+https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event 12
+https://nbcnews-lh.akamaihd.net/i/nbc_live12@187393/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event 13
+https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",NBC News Now Live Event 14
+https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",NYT Live Event
+https://video.nyt.com/live/100000006833597-live-20191119130040/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Reuters Channel
+http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
+#EXTINF:0, tvg-logo="https://newscoop.com/wp-content/uploads/2018/02/Time-magazine.jpg" group-title="",TIME Live
+https://timesecure-lh.akamaihd.net/i/timeap1_2@446253/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",WaPo Live
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8?player=powa
+#EXTINF:0, tvg-logo="" group-title="",WSJ Live
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+
